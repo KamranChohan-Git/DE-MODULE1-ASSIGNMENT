@@ -1,4 +1,5 @@
 # DE-PRJT
+#Updated/Modularized
 We collaborated to create a GitHub repository named “Data_Engineering_Project” and used an API key from the Kaggle API to fetch the wine dataset via Bash. The data was then analyzed using Python in Google Colab, where we performed exploratory data analysis (EDA) and generated visualizations to better understand the dataset.
 
 The analysis shows that most wines are priced in the low to mid range, with only a few very expensive ones, which can affect average values, so the median is more reliable. Wine ratings are quite similar across the dataset, meaning it’s harder to clearly distinguish quality based on scores alone. There is also a weak link between price and rating, suggesting that price is influenced more by factors like brand or origin rather than quality. Some countries appear more frequently and have a strong influence on pricing patterns. Missing data was handled to keep the dataset usable, though it may reduce some detail. Overall, the dataset is somewhat complex, with outliers and no strong relationships between key variables.
